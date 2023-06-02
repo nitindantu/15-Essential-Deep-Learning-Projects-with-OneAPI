@@ -7,3 +7,8 @@ Demonstrates hands-on deeplearning projects using keras and pytorch
 04. Multi Class Classification        - python, keras, OneDNN
 05. Object Detection                  - python, pytorch, torchvision
 06. DCGAN                             - python, keras, OneDNN
+
+08. Sentiment Analysis                - python, keras (LSTM), OneDNN
+09. Multiclass text classification    - python, keras(LSTM), OneDNN
+10. Text Summarization                - python, nltk
+11. 
