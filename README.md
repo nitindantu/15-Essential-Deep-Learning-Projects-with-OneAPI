@@ -11,4 +11,6 @@ Demonstrates hands-on deeplearning projects using keras and pytorch
 08. Sentiment Analysis                - python, keras (LSTM), OneDNN
 09. Multiclass text classification    - python, keras(LSTM), OneDNN
 10. Text Summarization                - python, nltk
-11. 
+
+12. Data Compression with Autoencoder - python, keras, OneDNN
+13. Anomaly Detection with Autoencoders -python, keras, OneDNN
