@@ -1,0 +1,1 @@
+We have sale data per day of 50 items across 10 different stores. We build LSTM model to forecast future sales of a given item in a given store. We utilize oneDNN for getting optimized performance. TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) and it is found to provide better results.
