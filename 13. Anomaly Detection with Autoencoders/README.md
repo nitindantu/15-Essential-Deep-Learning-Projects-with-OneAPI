@@ -1,3 +1,4 @@
+Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
 In this example, we load the credit card fraud dataset into a pandas DataFrame. The dataset contains features related to credit card transactions and a binary label indicating whether the transaction is fraudulent or not.
 
 We split the data into training and testing sets and normalize the input features using z-score normalization.
